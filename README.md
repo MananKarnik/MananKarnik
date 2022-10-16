@@ -1,8 +1,21 @@
-### Hi there 👋
+<div align="center">
+<img width="100%" src="header.png" />
+</div>
 
+## Stats and Languages
 <p align="center">
-<img width=53%" src="https://github-readme-stats.vercel.app/api?username=MananKarnik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MananKarnik&layout=compact&theme=tokyonight&hide_border=true">
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=MananKarnik&count_private=true&show_icons=true&theme=dracula"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MananKarnik&layout=compact&theme=dracula">
+</p>
+
+## Trophies
+<p align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MananKarnik&theme=dracula&row=1"/>
+</p>
+
+## Activity
+<p align="center">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=MananKarnik&theme=dracula&bg_color=282a36"/>
 </p>
 
 <!--
