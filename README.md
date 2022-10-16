@@ -22,8 +22,10 @@
 <details>
   <summary><h2>Projects</h2></summary>
   <p align="center">
-    <a href="#">
+    <a href="https://github.com/MananKarnik/solar-system">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MananKarnik&repo=solar-system&theme=dracula&hide_border=true"/>
+    </a>
+    <a href="https://github.com/MananKarnik/operating-system">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MananKarnik&repo=operating-system&theme=dracula&hide_border=true"/>
     </a>
   </p>
