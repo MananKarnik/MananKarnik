@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MananKarnik&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MananKarnik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+<img width=53%" src="https://github-readme-stats.vercel.app/api?username=MananKarnik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MananKarnik&layout=compact&theme=tokyonight&hide_border=true">
+</p>
 
 <!--
 **MananKarnik/MananKarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
