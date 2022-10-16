@@ -20,6 +20,16 @@
 </details>
 
 <details>
+  <summary><h2>Projects</h2></summary>
+  <p align="center">
+    <a href="#">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MananKarnik&repo=solar-system&theme=dracula&hide_border=true"/>
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MananKarnik&repo=operating-system&theme=dracula&hide_border=true"/>
+    </a>
+  </p>
+</details>
+
+<details>
   <summary><h2>Trophies</h2></summary>
   <p align="center">
     <a href="#">
