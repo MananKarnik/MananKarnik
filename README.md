@@ -3,7 +3,7 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on [.dotfiles](https://github.com/MananKarnik/.dotfiles)
+- 🔭 I’m currently working on [.dotfiles](https://github.com/manankarnik/.dotfiles)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), Assembly
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me: <manankarnik03@gmail.com>
@@ -13,8 +13,8 @@
   <summary><h2>Stats and Languages</h2></summary>
   <p align="center">
     <a href="#">
-      <img width="54%" src="https://github-readme-stats.vercel.app/api?username=MananKarnik&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MananKarnik&layout=compact&theme=dracula&hide_border=true">
+      <img width="54%" src="https://github-readme-stats.vercel.app/api?username=manankarnik&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manankarnik&layout=compact&theme=dracula&hide_border=true">
     <a href="#">
   </p>
 </details>
@@ -22,11 +22,11 @@
 <details>
   <summary><h2>Projects</h2></summary>
   <p align="center">
-    <a href="https://github.com/MananKarnik/solar-system">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MananKarnik&repo=solar-system&theme=dracula&hide_border=true"/>
+    <a href="https://github.com/manankarnik/solar-system">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=manankarnik&repo=solar-system&theme=dracula&hide_border=true"/>
     </a>
-    <a href="https://github.com/MananKarnik/operating-system">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MananKarnik&repo=operating-system&theme=dracula&hide_border=true"/>
+    <a href="https://github.com/manankarnik/operating-system">
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=manankarnik&repo=operating-system&theme=dracula&hide_border=true"/>
     </a>
   </p>
 </details>
@@ -35,7 +35,7 @@
   <summary><h2>Trophies</h2></summary>
   <p align="center">
     <a href="#">
-      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MananKarnik&theme=dracula&row=1&no-frame=true"/>
+      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=manankarnik&theme=dracula&row=1&no-frame=true"/>
     </a>
   </p>
 </details>
@@ -44,7 +44,7 @@
   <summary><h2>Activity</h2></summary>
   <p align="center">
     <a href="#">
-      <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=MananKarnik&theme=dracula&bg_color=282a36&hide_border=true"/>
+      <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=manankarnik&theme=dracula&bg_color=282a36&hide_border=true"/>
     </a>
   </p>
 </details>
@@ -53,13 +53,13 @@
   <summary><h2>Streak</h2></summary>
   <p align="center">
     <a href="#">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=MananKarnik&theme=dracula&bg_color=282a36&hide_border=true"/>
+      <img width="100%" src="https://streak-stats.demolab.com/?user=manankarnik&theme=dracula&bg_color=282a36&hide_border=true"/>
     </a>
   </p>
 </details>
 
 <!--
-**MananKarnik/MananKarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**manankarnik/manankarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
