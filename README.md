@@ -4,7 +4,7 @@
 <br/>
 
 - 🔭 I’m currently working on [.dotfiles](https://github.com/manankarnik/.dotfiles)
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), Assembly
+- 🌱 I’m currently learning [React](https://reactjs.org/)
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me: <manankarnik03@gmail.com>
 - ⚡ Fun fact: The first programming language was called Fortran
